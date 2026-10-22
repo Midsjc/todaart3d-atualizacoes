@@ -1,0 +1,22 @@
+name: Publicar aplicativos TodaArt3D
+on:
+  push:
+    branches: [main]
+    paths: [publish.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: publicar-aplicativos
+  cancel-in-progress: false
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - name: Conferir APK, publicar versão e atualizar catálogo
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: python3 scripts/publish.py
