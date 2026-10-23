@@ -95,3 +95,25 @@ Todos os 14 temas continuam disponíveis. Sem novas permissões ou alterações 
 
 Compilação, assinatura e 340 verificações aprovadas. A geometria da câmera foi conferida
 em cinco formatos de tela e dois formatos de imagem. Teste visual em aparelho físico pendente.
+
+## Corinthians — versão 2.9.24
+
+Novo voo em profundidade: o gavião surge pequeno na arquibancada distante da outra ponta,
+desce sobre o gramado, passa junto ao gol próximo e vira na direção do observador.
+Ele cresce por perspectiva, atravessa para a frente dos ícones na aproximação final e
+sai acima da tela, como se passasse pela lente do celular. A câmera tem deslocamento,
+zoom e inclinação mais discretos para manter a arena estável.
+
+O voo usa seis poses desenhadas, com vista em três quartos e frontal, alternando planadas
+longas e batidas curtas das asas. Pivôs na cabeça alinham as poses. As camadas do estádio
+e da aproximação compartilham a mesma projeção, evitando um salto na transição.
+A vista frontal termina em planada. Uma sombra discreta acompanha parte da passagem baixa.
+
+A aproximação é uma animação local com sprites e perspectiva sobre a arte da arena;
+não é vídeo ou modelo tridimensional completo. A camada diante dos ícones não recebe
+toques e usa o mesmo relógio do estádio. Não há um segundo temporizador de animação.
+
+Mantidos os 22 segundos de voo a cada minuto de tempo visível e a espiada aos 36 segundos,
+por 6,5 segundos, com os lados alternados. A arte e a animação da espiada não mudaram.
+Torcida, bandeiras, luzes, confetes, todos os 14 temas e permissões anteriores preservados.
+Compilação, assinatura e 356 verificações aprovadas; teste visual no celular pendente.
