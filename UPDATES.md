@@ -79,3 +79,19 @@ ou controle de aeronaves reais. Tema independente, sem vínculo oficial com as e
 
 Os 13 temas anteriores e o atualizador foram preservados. Sem novas permissões.
 Compilação, assinatura e 334 verificações aprovadas; teste em aparelho físico pendente.
+
+## Corinthians — versão 2.9.23
+
+O gavião faz uma volta completa pela torcida, em ordem: canto do fundo à esquerda,
+canto do fundo à direita, canto da frente à direita e canto da frente à esquerda.
+Depois, passa novamente pela arquibancada do fundo e sai de cena. A câmera acompanha
+o percurso, respeitando as bordas da imagem em telas altas ou largas.
+
+O voo continua com 22 segundos e se repete a cada 60 segundos de tempo visível.
+A espiada começa aos 36 segundos, dura 6,5 segundos e alterna as laterais a cada ciclo,
+exatamente como antes. O relógio pausa ao sair do início. Arte da Neo Química Arena,
+torcida, bandeiras, luzes, confetes, batimento das asas e animação da espiada foram preservados.
+Todos os 14 temas continuam disponíveis. Sem novas permissões ou alterações no atualizador.
+
+Compilação, assinatura e 340 verificações aprovadas. A geometria da câmera foi conferida
+em cinco formatos de tela e dois formatos de imagem. Teste visual em aparelho físico pendente.
