@@ -1,11 +1,11 @@
 {
   "package": "br.com.camadazero.todaart3d",
   "slug": "camada-zero",
-  "versionCode": 40,
-  "versionName": "2.9.23",
-  "bytes": 33859446,
-  "sha256": "6b88d525961c2c2618d2e2fd8605999cb8f9fd1e89d401bef5126a0a60d59f58",
-  "source": "https://tmpfiles.org/w5AAU0ZP6WtS/camadazero-2.9.23.apk",
-  "title": "Camada Zero 2.9.23 · Gavião nos quatro cantos da arena",
-  "notes": "Tema Corinthians: novo percurso completo do gavião pela torcida nos quatro cantos da arquibancada, em sentido horário — fundo esquerdo, fundo direito, frente direita e frente esquerda. Passagem final pelo fundo antes de sair. Câmera acompanha o voo e respeita as bordas da arte em telas altas e largas. Mantidos o voo de 22 segundos a cada minuto de tempo visível e a espiada aos 36 segundos, por 6,5 segundos, alternando os lados. A animação da espiada, arte da Neo Química Arena, torcida, bandeiras, refletores, confetes, asas e todos os 14 temas foram preservados. Mesmo pacote, permissões e assinatura; atualizador mantido. Compilação, assinatura e 340 verificações aprovadas, incluindo geometria em cinco formatos de tela e dois de imagem; teste visual em aparelho físico pendente."
+  "versionCode": 41,
+  "versionName": "2.9.24",
+  "bytes": 35698724,
+  "sha256": "fe89922e969a6f8cd69aace7fcbdf321427d31e84ef4ad881f6c040a299f414d",
+  "source": "https://tmpfiles.org/wLAoUhniYzIF/camadazero-2.9.24.apk",
+  "title": "Camada Zero 2.9.24 · Gavião do gol até a tela",
+  "notes": "Corinthians: novo voo em profundidade, da arquibancada distante ao gramado e perto do gol, virando para o observador e crescendo até passar à frente dos ícones e sair acima da tela. Seis poses desenhadas de voo em três quartos e frontal, com planadas e batidas curtas das asas, pivôs alinhados na cabeça e câmera mais discreta. Projeção compartilhada entre estádio e camada da aproximação para evitar saltos de posição. Sombra suave durante parte do voo baixo. Animação local de sprites e perspectiva sobre a arte da arena; não é vídeo nem modelo 3D completo. Mantidos 22 segundos por voo a cada minuto de tempo visível e a espiada aos 36 segundos, por 6,5 segundos, alternando as laterais. A arte e animação da espiada não mudaram. Torcida, bandeiras, luzes, confetes, os 14 temas, permissões e atualizador preservados. Mesma assinatura para instalar por cima. Compilação e 356 verificações aprovadas; teste visual em aparelho físico pendente."
 }
