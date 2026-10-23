@@ -1,11 +1,11 @@
 {
   "package": "br.com.camadazero.todaart3d",
   "slug": "camada-zero",
-  "versionCode": 38,
-  "versionName": "2.9.21",
-  "bytes": 31295187,
-  "sha256": "1ba05714246b091702e628a61c740f28cd92bd1164a5b6837cba1580e6c9e86d",
-  "source": "https://tmpfiles.org/wIAfUbgrWbcP/camadazero-2.9.21.apk",
-  "title": "Camada Zero 2.9.21 · Glass Pro, 13 temas",
-  "notes": "Novo tema Glass Pro · iPhone 18, inspirado no iPhone 18 Pro e na aparência Liquid Glass. Papel de parede original em bordô e azul-gelo, painéis translúcidos, três modos de ícones, relógio grande, bateria/conexão reais, calendário, atalhos e dock com até quatro aplicativos escolhidos separadamente dos favoritos. Modos dia e noite, brilho suave que pausa em segundo plano, economia de bateria e movimentos reduzidos. Ative em Temas → Glass Pro · iPhone 18. Os 12 temas anteriores, fontes, ícones, miniícones originais, efeitos, rolagem e atualizador automático foram preservados. Sem novas permissões para este tema. Mesmo pacote e assinatura para instalar por cima da versão anterior. Compilação, assinatura e 245 verificações aprovadas; sem teste em aparelho físico nesta sessão."
+  "versionCode": 39,
+  "versionName": "2.9.22",
+  "bytes": 33859446,
+  "sha256": "390d345e688f3326be1a4df2e4409c3b24ba8e080abf4abb67ad8ab52413efc4",
+  "source": "https://tmpfiles.org/wPAgURgXS6df/camadazero-2.9.22.apk",
+  "title": "Camada Zero 2.9.22 · Eve Future, 14 temas",
+  "notes": "Novo tema Eve Future · Mobilidade aérea, com arte conceitual original inspirada no eVTOL da Eve ligado à Embraer, sobre uma metrópole brasileira do futuro e vertiporto iluminado. Rotas luminosas e pequenos veículos animados, radar identificado como simulação visual, ícones com símbolo Embraer, bateria e conexão reais. Rotina dia/noite automática somente neste tema: noite das 22h às 6h, com atualização por eventos de horário/fuso e ao voltar ao app. Sol/lua passa para modo manual; reative na Central Eve Future ou na personalização. Atalhos de conexões, brilho e economia de bateria abrem os controles do Android. Widgets de bateria/calendário opcionais e visualização da arte sem ícones. Aeronave principal estática; rotas, radar e pequenos veículos animados. Efeitos pausam fora do início, com movimentos reduzidos ou economia de bateria. Sem telemetria de aeronaves, sem novas permissões. Os 13 temas anteriores, ícones, fontes, efeitos, rolagem e atualizador foram preservados. Compilação, assinatura e 334 verificações aprovadas; teste em aparelho físico pendente."
 }
