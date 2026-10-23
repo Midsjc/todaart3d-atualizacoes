@@ -11,7 +11,7 @@ Não publique chaves de assinatura, senhas, dados pessoais ou arquivos de manute
 - Por padrão, baixa somente em redes sem cobrança, normalmente Wi-Fi.
 - Downloads são conferidos por tamanho, SHA-256, pacote, versão crescente e certificado
   igual ao aplicativo instalado. O Android confirma a instalação.
-- Os 12 temas, favoritos e configurações continuam no mesmo pacote de aplicativo.
+- Os 13 temas, favoritos e configurações continuam no mesmo pacote de aplicativo.
 - É necessário instalar a versão 2.9.20 ou posterior uma vez para receber esse recurso.
 - Em **Ajustes → Atualizações do Camada Zero**, é possível desativar a busca,
   permitir outras redes, verificar agora ou instalar o APK baixado.
@@ -39,3 +39,17 @@ sua chave de assinatura, e ter um catálogo `apps/IDENTIFICADOR.DO.PACOTE.json`.
 A criação deste repositório não modifica automaticamente APKs já instalados.
 A estrutura de publicação aceita outros pacotes; só publique aplicativos autorizados.
 Não use esta estrutura para atualizar apps de terceiros.
+
+## Glass Pro — versão 2.9.21
+
+Ative em **Temas → Glass Pro · iPhone 18**. Composição abstrata original bordô e azul-gelo,
+painéis de vidro, três aparências de ícones, relógio grande e modos dia/noite.
+A cápsula de bateria/conexão e os widgets mostram dados reais do Android; toque para abrir
+os ajustes correspondentes. O calendário usa a data do aparelho. O dock permite escolher
+até quatro aplicativos em **Personalizar tema → Escolher aplicativos do dock** e tem uma
+preferência separada dos favoritos antigos. A rolagem continua em Ajustes.
+
+Os 12 temas anteriores foram preservados. Tema independente inspirado no
+[iPhone 18 Pro](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
+e na linguagem visual Liquid Glass; o sistema continua sendo Android.
+Compilação, assinatura e 245 verificações aprovadas; teste em aparelho físico pendente.
