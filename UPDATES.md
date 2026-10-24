@@ -117,3 +117,26 @@ Mantidos os 22 segundos de voo a cada minuto de tempo visível e a espiada aos 3
 por 6,5 segundos, com os lados alternados. A arte e a animação da espiada não mudaram.
 Torcida, bandeiras, luzes, confetes, todos os 14 temas e permissões anteriores preservados.
 Compilação, assinatura e 356 verificações aprovadas; teste visual no celular pendente.
+
+## Eve Future — versão 2.9.25
+
+Ative o tema **Eve Future · Mobilidade aérea** e mantenha seu fundo próprio. A nova opção
+**Drone sobrevoando o Rio de Janeiro** vem ativada por padrão. A aeronave é um recorte
+separado do cenário, sobrevoando uma versão futurista do Rio com Pão de Açúcar,
+Baía de Guanabara e vertiporto. O voo tem um ciclo contínuo de 42 segundos, variando
+posição, tamanho e inclinação para mostrar passagens distantes e aproximação à plataforma.
+
+Os quatro motores de sustentação visíveis recebem hélices desenhadas em movimento.
+Inclui luzes suaves de navegação, rastro luminoso e pulsos no vertiporto. Os rastros e
+pulsos acompanham a opção de efeitos/rotas; o voo tem controle próprio. Desativar o
+sobrevoo restaura o papel de parede original e os efeitos anteriores do tema.
+
+Em **Personalizar tema → Ver sobrevoo do Rio sem ícones**, a cena pode ser vista em uma
+prévia nativa. O relógio da tela inicial pausa ao abrir a prévia; a prévia tem seu próprio
+relógio, encerrado ao fechar. O voo da tela inicial preserva a fase entre renderizações.
+A animação respeita economia de bateria e movimentos reduzidos, e pausa fora da tela.
+É uma animação conceitual local; não é transmissão de drone real e não usa GPS ou câmera.
+
+Os 14 temas anteriores, incluindo voo e espiada do Corinthians, foram preservados.
+Sem novas permissões. Compilação, assinatura e 387 verificações aprovadas; teste visual
+e de desempenho em aparelho físico pendente.
